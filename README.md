@@ -5,7 +5,7 @@ Simple .NET Web API for managing books. Uses XML file for storage.
 ## How to run
 
 1. `dotnet run`
-2. Go to `https://localhost:7000/swagger` to test
+2. Go to `https://localhost:5001/swagger` to test
 
 ## Endpoints
 
